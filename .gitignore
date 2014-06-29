@@ -1,0 +1,4 @@
+debian/files
+debian/dokuwiki-folded.debhelper.log
+debian/dokuwiki-folded.substvars
+debian/dokuwiki-folded/

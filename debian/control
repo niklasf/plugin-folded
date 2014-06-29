@@ -1,0 +1,15 @@
+Source: dokuwiki-folded
+Section: web
+Priority: optional
+Maintainer: Niklas Fiekas <niklas.fiekas@tu-clausthal.de>
+Build-Depends: debhelper (>= 8)
+Standards-Version: 3.9.5.0
+Homepage: https://www.dokuwiki.org/plugin:folded
+
+Package: dokuwiki-folded
+Architecture: all
+Depends: dokuwiki, ${misc:Depends}
+Description: Foldable page sections for DokuWiki
+ Allows you to make additional information available in folded section of the
+ page. This applies to inline text as well as whole blocks. Sections can have
+ linked titles to toggle their state.

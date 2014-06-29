@@ -1,0 +1,9 @@
+conf usr/share/dokuwiki/lib/plugins/folded/
+lang usr/share/dokuwiki/lib/plugins/folded/
+syntax usr/share/dokuwiki/lib/plugins/folded/
+action.php usr/share/dokuwiki/lib/plugins/folded/
+closed.gif usr/share/dokuwiki/lib/plugins/folded/
+open.gif usr/share/dokuwiki/lib/plugins/folded/
+plugin.info.txt usr/share/dokuwiki/lib/plugins/folded/
+script.js usr/share/dokuwiki/lib/plugins/folded/
+style.css usr/share/dokuwiki/lib/plugins/folded/
